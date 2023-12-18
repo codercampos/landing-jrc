@@ -322,7 +322,7 @@ section,
 .gr--ghostwhite { background-image: linear-gradient(to left, #e9e9f5, #f4f4f9); }
 .gr--smoke { background: linear-gradient(180deg, #f8f9fe 0%, #f4f4f9 100%); }
 .gr--whitesmoke { background-image: linear-gradient(180deg, rgba(244, 244, 249, .8) 50%, rgba(244, 244, 249, .05) 100%); }
-.gr--perl { background-image: linear-gradient(180deg, rgba(236, 234, 253, .8) 50%, rgba(236, 234, 253, .05) 100%); }
+.gr--perl { background-image: linear-gradient(180deg, #eaece1c4 50%, #eceafd0d 100%); }
 
 /*------------------------------------------*/
 /*  BACKGROUND SHAPE
@@ -10882,21 +10882,21 @@ body.theme--dark {
 
 .bg--theme,
 .shape--blue-400:after { 
-  background-color: #7b5dd6; 
+  background-color: #E62609; 
 }
 
 .btn--theme {
   color: #fff!important;
-  border-color: #7b5dd6!important;
-  background-color: #7b5dd6!important;
+  border-color: #E62609!important;
+  background-color: #E62609!important;
 }
 
 .hover--theme:hover,
 .white-scroll .scroll .hover--theme:hover,
 .black-scroll .scroll .hover--theme:hover {
   color: #fff!important;
-  border-color: #6a4ec1!important;
-  background-color: #6a4ec1!important;
+  border-color: #ff3719!important;
+  background-color: #ff3719!important;
 }
 
 .theme--dark .white-scroll .scroll .hover--theme:hover {
@@ -10923,10 +10923,10 @@ body.theme--dark {
 .color--theme li, 
 .color--theme i, 
 .color--theme span,
-.color--white .color--theme { color: #7b5dd6!important; }
+.color--white .color--theme { color: #E62609!important; }
 
 .loading--theme .loader { 
-  border-color: transparent #7b5dd6; 
+  border-color: transparent #E62609; 
 }
 
 .loading--theme .loader::after {
@@ -10934,39 +10934,39 @@ body.theme--dark {
 }
 
 .nav-theme .sm-info { 
-  background-color: #7b5dd6; 
+  background-color: #E62609; 
 }
 
 .wsmenu > .wsmenu-list.nav-theme > li > ul.sub-menu > li > a:hover,
 .wsmenu > .wsmenu-list.nav-theme > li > .wsmegamenu.w-75 ul.link-list > li > a:hover,
 .wsmenu > .wsmenu-list.nav-theme > li > .wsmegamenu.halfmenu ul.link-list > li > a:hover {
-  color: #7b5dd6!important;
+  color: #E62609!important;
 }
 
 .hero-section .quick-form .form-control:focus {
-  border-color: #7b5dd6;
+  border-color: #E62609;
 }
 
 .cbox-2:hover .cbox-2-ico.bg--theme { 
-  color: #7b5dd6; 
-  border-color: #7b5dd6; 
+  color: #E62609; 
+  border-color: #E62609; 
 }
 
 .tabs-1.tabs--theme, 
 .tabs-1.tabs--theme li.current:hover { 
-  color: #7b5dd6; 
-  border-color: #7b5dd6; 
+  color: #E62609; 
+  border-color: #E62609; 
 }
 
 .faqs-section .tabs--theme .tabs-1 li.current,
 .faqs-section .tabs--theme .tabs-1 li.current:hover {
-  background-color: #7b5dd6;
-  border-color: #7b5dd6!important;
+  background-color: #E62609;
+  border-color: #E62609!important;
 }
 
 .switch-wrap input:checked + .switcher.switcher--theme { 
-  background-color: #7b5dd6; 
-  border-color: #7b5dd6; 
+  background-color: #E62609; 
+  border-color: #E62609; 
 }
 
 .shape-ico.color--theme path,
